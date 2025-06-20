@@ -4,7 +4,7 @@ code: ENFJ
 gender: m
 name: 主人公
 tagline: 富有感染力的领袖，激励他人实现梦想。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **主人公的悖论：对男性ENFJ人格的全面分析**

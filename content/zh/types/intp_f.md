@@ -4,7 +4,7 @@ code: INTP
 gender: f
 name: 逻辑学家
 tagline: 知识的探索者，沉醉于思想的无限可能。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **现实的架构师：INTP女性全面解析报告**

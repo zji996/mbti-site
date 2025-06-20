@@ -4,7 +4,7 @@ code: ESFP
 gender: f
 name: 表演者
 tagline: 充满活力的娱乐家，生活就是我的舞台。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **活力原则：对ESFP女性人格的全面分析**

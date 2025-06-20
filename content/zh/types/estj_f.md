@@ -4,7 +4,7 @@ code: ESTJ
 gender: f
 name: 总经理
 tagline: 出色的管理者，擅长管理事务或人员。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **执行官的蓝图：ESTJ女性人格深度解析**

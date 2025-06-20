@@ -4,7 +4,7 @@ code: ISTJ
 gender: f
 name: 物流师
 tagline: 一丝不苟的实干家，可靠是我的代名词。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **物流师女性：对ISTJ人格类型的全面分析**

@@ -4,7 +4,7 @@ code: ESFJ
 gender: m
 name: 执政官
 tagline: 乐于助人的社交中心，极具同情心。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **养育型领导者：关于男性ESFJ人格的综合心理学报告**

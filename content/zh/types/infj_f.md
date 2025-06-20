@@ -4,7 +4,7 @@ code: INFJ
 gender: f
 name: 提倡者
 tagline: 安静的理想主义者，用信念点亮世界。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **倡导者放大版：INFJ女性人格的全面分析**

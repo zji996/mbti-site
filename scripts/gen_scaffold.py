@@ -81,7 +81,7 @@ code: {code}
 gender: {gkey}
 name: {name}
 tagline: {tagline}
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 [DR] 请概述 {code} {gcn} 人格特点, 深度画像, 常见盲点, 成长建议

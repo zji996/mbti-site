@@ -1,0 +1,128 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "retry": "重试",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "view": "查看",
+    "share": "分享",
+    "search": "搜索",
+    "filter": "筛选",
+    "clear": "清除",
+    "all": "全部",
+    "male": "男性",
+    "female": "女性",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统"
+  },
+  "nav": {
+    "home": "首页",
+    "types": "人格类型",
+    "pairings": "配对探索",
+    "explorer": "探索模式",
+    "random": "随机抽卡",
+    "about": "关于"
+  },
+  "personality": {
+    "types": "人格类型",
+    "type": "人格类型",
+    "code": "代码",
+    "name": "名称",
+    "tagline": "标语",
+    "summary": "概要",
+    "details": "详情",
+    "characteristics": "特征",
+    "strengths": "优势",
+    "weaknesses": "劣势",
+    "growth": "成长建议",
+    "relationships": "人际关系",
+    "career": "职业发展",
+    "temperament": "气质",
+    "viewDetails": "查看详情",
+    "backToList": "返回列表",
+    "relatedTypes": "相关类型",
+    "searchPlaceholder": "搜索人格类型...",
+    "noResults": "没有找到匹配的人格类型",
+    "adjustFilters": "尝试调整搜索条件或筛选器"
+  },
+  "temperaments": {
+    "NT": "理性者",
+    "NF": "理想主义者",
+    "SJ": "守护者",
+    "SP": "艺术家"
+  },
+  "personalityNames": {
+    "INTJ": "建筑师",
+    "INTP": "逻辑学家",
+    "ENTJ": "指挥官",
+    "ENTP": "辩论家",
+    "INFJ": "提倡者",
+    "INFP": "调停者",
+    "ENFJ": "主人公",
+    "ENFP": "竞选者",
+    "ISTJ": "物流师",
+    "ISFJ": "守卫者",
+    "ESTJ": "总经理",
+    "ESFJ": "执政官",
+    "ISTP": "鉴赏家",
+    "ISFP": "探险家",
+    "ESTP": "企业家",
+    "ESFP": "娱乐家"
+  },
+  "pairing": {
+    "compatibility": "兼容性",
+    "score": "评分",
+    "analysis": "分析",
+    "strengths": "配对优势",
+    "challenges": "潜在挑战",
+    "tips": "相处建议",
+    "viewPairing": "查看配对"
+  },
+  "explorer": {
+    "title": "探索模式",
+    "description": "通过交互式图表探索人格类型关系",
+    "selectType": "选择人格类型",
+    "connections": "关联",
+    "compatibility": "兼容性"
+  },
+  "random": {
+    "title": "随机探索",
+    "description": "随机发现人格类型和配对",
+    "randomType": "随机人格",
+    "randomPairing": "随机配对",
+    "todayType": "今日人格",
+    "todayPairing": "今日配对",
+    "shuffle": "重新随机"
+  },
+  "theme": {
+    "title": "主题设置",
+    "light": "浅色模式",
+    "dark": "深色模式",
+    "system": "跟随系统"
+  },
+  "language": {
+    "title": "语言设置",
+    "zh": "中文",
+    "en": "English"
+  },
+  "meta": {
+    "title": "MBTI 人格类型探索",
+    "description": "探索16种MBTI人格类型，了解每种类型的特征、优势和成长方向。支持人格配对分析和交互式探索。",
+    "keywords": "MBTI, 人格类型, 性格测试, 人格分析, 配对, 心理学"
+  },
+  "errors": {
+    "notFound": "页面未找到",
+    "loadFailed": "加载失败",
+    "networkError": "网络错误",
+    "invalidType": "无效的人格类型",
+    "tryAgain": "请重试"
+  }
+}

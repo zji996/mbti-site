@@ -4,7 +4,7 @@ code: ENTJ
 gender: m
 name: 指挥官
 tagline: 天生的领导者，用决心和远见引领变革。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **雄心壮志的建筑师：ENTJ男性人格深度解析报告**

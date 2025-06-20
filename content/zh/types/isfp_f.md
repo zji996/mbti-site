@@ -4,7 +4,7 @@ code: ISFP
 gender: f
 name: 探险家
 tagline: 灵活迷人的艺术家，随时准备探索新事物。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 

@@ -1,0 +1,128 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "share": "Share",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "all": "All",
+    "male": "Male",
+    "female": "Female",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "nav": {
+    "home": "Home",
+    "types": "Personality Types",
+    "pairings": "Pairing Explorer",
+    "explorer": "Explorer Mode",
+    "random": "Random Discovery",
+    "about": "About"
+  },
+  "personality": {
+    "types": "Personality Types",
+    "type": "Personality Type",
+    "code": "Code",
+    "name": "Name",
+    "tagline": "Tagline",
+    "summary": "Summary",
+    "details": "Details",
+    "characteristics": "Characteristics",
+    "strengths": "Strengths",
+    "weaknesses": "Weaknesses",
+    "growth": "Growth Tips",
+    "relationships": "Relationships",
+    "career": "Career",
+    "temperament": "Temperament",
+    "viewDetails": "View Details",
+    "backToList": "Back to List",
+    "relatedTypes": "Related Types",
+    "searchPlaceholder": "Search personality types...",
+    "noResults": "No matching personality types found",
+    "adjustFilters": "Try adjusting your search criteria or filters"
+  },
+  "temperaments": {
+    "NT": "Rational",
+    "NF": "Idealist",
+    "SJ": "Guardian",
+    "SP": "Artisan"
+  },
+  "personalityNames": {
+    "INTJ": "Architect",
+    "INTP": "Logician",
+    "ENTJ": "Commander",
+    "ENTP": "Debater",
+    "INFJ": "Advocate",
+    "INFP": "Mediator",
+    "ENFJ": "Protagonist",
+    "ENFP": "Campaigner",
+    "ISTJ": "Logistician",
+    "ISFJ": "Defender",
+    "ESTJ": "Executive",
+    "ESFJ": "Consul",
+    "ISTP": "Virtuoso",
+    "ISFP": "Adventurer",
+    "ESTP": "Entrepreneur",
+    "ESFP": "Entertainer"
+  },
+  "pairing": {
+    "compatibility": "Compatibility",
+    "score": "Score",
+    "analysis": "Analysis",
+    "strengths": "Pairing Strengths",
+    "challenges": "Potential Challenges",
+    "tips": "Relationship Tips",
+    "viewPairing": "View Pairing"
+  },
+  "explorer": {
+    "title": "Explorer Mode",
+    "description": "Explore personality type relationships through interactive charts",
+    "selectType": "Select Personality Type",
+    "connections": "Connections",
+    "compatibility": "Compatibility"
+  },
+  "random": {
+    "title": "Random Discovery",
+    "description": "Randomly discover personality types and pairings",
+    "randomType": "Random Type",
+    "randomPairing": "Random Pairing",
+    "todayType": "Today's Type",
+    "todayPairing": "Today's Pairing",
+    "shuffle": "Shuffle Again"
+  },
+  "theme": {
+    "title": "Theme Settings",
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "system": "Follow System"
+  },
+  "language": {
+    "title": "Language Settings",
+    "zh": "中文",
+    "en": "English"
+  },
+  "meta": {
+    "title": "MBTI Personality Type Explorer",
+    "description": "Explore 16 MBTI personality types, understand their characteristics, strengths, and growth directions. Support personality pairing analysis and interactive exploration.",
+    "keywords": "MBTI, personality types, personality test, personality analysis, pairing, psychology"
+  },
+  "errors": {
+    "notFound": "Page Not Found",
+    "loadFailed": "Load Failed",
+    "networkError": "Network Error",
+    "invalidType": "Invalid Personality Type",
+    "tryAgain": "Please try again"
+  }
+}

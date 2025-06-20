@@ -4,7 +4,7 @@ code: ESTP
 gender: f
 name: 企业家
 tagline: 敏锐的行动派，活在当下的风险爱好者。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **释放的动力：ESTP女性全面解析报告**

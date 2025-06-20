@@ -4,7 +4,7 @@ code: ISFJ
 gender: m
 name: 守卫者
 tagline: 温暖的守护者，时刻准备着保护所爱之人。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **守护者的悖论：ISFJ男性人格的全面解析**

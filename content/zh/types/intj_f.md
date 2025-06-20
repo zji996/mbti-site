@@ -4,7 +4,7 @@ code: INTJ
 gender: f
 name: 建筑师
 tagline: 深谋远虑，构筑未来的思想建筑师。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **打造自主蓝图：INTJ女性人格深度解析报告**

@@ -4,7 +4,7 @@ code: ESFP
 gender: m
 name: 表演者
 tagline: 充满活力的娱乐家，生活就是我的舞台。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **ESFP男性深度心理与发展分析报告：“表演者”人格的全面解析**

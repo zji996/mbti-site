@@ -4,7 +4,7 @@ code: ENFP
 gender: m
 name: 竞选者
 tagline: 热情洋溢的社交家，总能找到快乐的理由。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **竞选者的悖论：对男性ENFP人格的全面分析**

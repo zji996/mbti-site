@@ -4,7 +4,7 @@ code: ISTP
 gender: m
 name: 鉴赏家
 tagline: 大胆务实的实验家，热衷于探索和创造。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **鉴赏家大师：ISTP男性人格类型的综合心理与行为分析**

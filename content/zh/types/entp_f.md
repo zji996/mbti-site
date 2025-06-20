@@ -4,7 +4,7 @@ code: ENTP
 gender: f
 name: 辩论家
 tagline: 思想的碰撞者，享受智慧交锋的乐趣。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **远见的反叛者：对女性ENTP人格的全面分析**

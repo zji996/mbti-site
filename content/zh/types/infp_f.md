@@ -4,7 +4,7 @@ code: INFP
 gender: f
 name: 调停者
 tagline: 诗意的梦想家，在平淡中寻找美好。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **调停者之心：INFP女性人格深度报告**

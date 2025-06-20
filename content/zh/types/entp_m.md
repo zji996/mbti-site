@@ -4,7 +4,7 @@ code: ENTP
 gender: m
 name: 辩论家
 tagline: 思想的碰撞者，享受智慧交锋的乐趣。
-summary:       # [GPT] 请用 ≤50 字概括本人格
+summary:        
 ---
 
 # **ENTP男性人格深度解析报告：远见卓识的辩论家**
